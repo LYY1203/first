@@ -20,7 +20,7 @@
     "later": "^1.2.0",
     "log4js": "*",
     "mongodb": "1.1.11",
-    "morgan": "~1.0.0",
+    "morgan": "~1.9.1",
     "request": "*",
     "static-favicon": "~1.0.0",
     "unzip": "*",
